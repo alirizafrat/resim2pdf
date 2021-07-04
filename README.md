@@ -7,4 +7,7 @@ Herhangi bir resim dosyası formatını pdf'e dönüştür.
 
 # Kurulum
 
-[Pip install pillow]
+CMD / Terminal
+```
+Pip install pillow
+```
